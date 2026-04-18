@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi I'm Jonathan 👋
+
+### Get to know me!
+
+- 👓 I'm currently pursuing a degree in Business Artificial Intelligence Systems in the National University of Singapore (NUS)
+- 💡 I have an interest in the intersection between technological programmes and business operations!
+- 🌱 I'm looking to create programmes that are meaningful and user centric 
 
 <!--
 **jonxchoo/jonxchoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
